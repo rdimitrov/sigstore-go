@@ -1,4 +1,4 @@
-# Verification using `sigstore-go`
+# Bundle verification using `sigstore-go`
 
 This document will walk through using `sigstore-go` to verify a Sigstore Bundle.
 
